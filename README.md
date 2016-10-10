@@ -3,8 +3,8 @@
 
 Term: Fall 2016
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
++ Team #1
++ Projec title: Oil Boilers & Fuel Consumption 
 + Team members
 	+ Cen Zeng
 	+ Jingdan Zhao
