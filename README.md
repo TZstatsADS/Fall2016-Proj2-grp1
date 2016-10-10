@@ -13,6 +13,9 @@ Term: Fall 2016
 	
 + Project summary: This exploratory analysis investigates fuel consumption rates for buildings in NYC that contain oil boilers.
 
+The data was extracted from NYC OpenData and can be found [here](https://data.cityofnewyork.us/Housing-Development/Oil-Boilers-Detailed-Fuel-Consumption-and-Building/jfzu-yy6n). 
+
+
 ```diff
 + **After your finish your shiny app, please replace the screenshot below with one from your own app.**
 ```
