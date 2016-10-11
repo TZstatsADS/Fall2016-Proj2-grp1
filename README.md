@@ -16,11 +16,7 @@ Term: Fall 2016
 The data was extracted from NYC OpenData and can be found [here](https://data.cityofnewyork.us/Housing-Development/Oil-Boilers-Detailed-Fuel-Consumption-and-Building/jfzu-yy6n). 
 
 
-```diff
-+ **After your finish your shiny app, please replace the screenshot below with one from your own app.**
-```
-
-![screenshot](doc/screenshot2.jpg)
+![screenshot](doc/screenshot1.jpg)
 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
