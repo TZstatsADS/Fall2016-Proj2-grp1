@@ -6,10 +6,10 @@ Term: Fall 2016
 + Team #1
 + Project title: Oil Consumption Analysis
 + Team members
-	+ Cen Zeng
-	+ Jingdan Zhao
-	+ Xuechun Sun
-	+ William Raikes
+	+ Cen Zeng (cz2379)
+	+ Jingdan Zhao (jz2678)
+	+ Xuechun Sun (xs2254)
+	+ William Raikes (wrr2109)
 	
 + Project summary: This exploratory analysis investigates fuel consumption rates for buildings in NYC that contain oil boilers.
 
