@@ -12,6 +12,7 @@ Term: Fall 2016
 	+ William Raikes (wrr2109)
 	
 + Project summary: This exploratory analysis investigates fuel consumption rates for buildings in NYC that contain oil boilers.
++ Final Version: [https://group1project2.shinyapps.io/Project_2_APP/](https://group1project2.shinyapps.io/Project_2_APP/)
 
 The data was extracted from NYC OpenData and can be found [here](https://data.cityofnewyork.us/Housing-Development/Oil-Boilers-Detailed-Fuel-Consumption-and-Building/jfzu-yy6n). 
 
